@@ -1,7 +1,7 @@
 <h1 align="center"> CzarLinks </h1>
 
 <p align="center">
-O DevLinks é um agregador de links para usar como cartão de visitas online. <br/>
+O CzarLinks é um agregador de links para usar como cartão de visitas online. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O CzarLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online na Rocketseat](https://maykbrito.github.io/devlinks)
 
