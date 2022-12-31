@@ -28,6 +28,7 @@
 
 body {
     background: var(--bg-url) no-repeat top center/cover;
+    height: 100vh;
     transition: 0.8s;
 }
 
@@ -52,12 +53,21 @@ body * {
 
 #profile img {
     width: 112px;
+    transition: 0.5s;
+}
+
+#profile img:hover{
+    cursor: pointer;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 #profile p {
     font-weight: 500;
     line-height: 24px;
     margin-top: 8px;
+    transition: 0.8s;
 }
 
 /* switch */
@@ -207,3 +217,12 @@ footer {
     color: #00ff6a;
 }
 
+/* media queries */
+@media (min-width: 700px){
+    :root {
+        --bg-url: url(./assets/bg-web.jpg)
+    }
+    .light{
+        --bg-url: url(./assets/bg-web-light.jpg)
+    }
+}
